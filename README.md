@@ -1,0 +1,1 @@
+This program models a queue of customers in a restaurant. There are buttons to signal whether each register is open or closed, the end of the business day, when a customer enters the line, when their service begins, and when their service ends. The first attempt at closing the program will be met with a report showing the average times of the customers' wait and service.
